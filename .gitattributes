@@ -1,0 +1,7 @@
+*.inc linguist-language=assembly
+*.asm linguist-language=assembly
+*.cs linguist-language=glsl
+*.fs linguist-language=glsl
+*.gs linguist-language=glsl
+*.vs linguist-language=glsl
+README.md -linguist-documentation
