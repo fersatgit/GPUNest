@@ -6,8 +6,8 @@
 <tr><td>Видеокарта:<td>Совместимая с OpenGL 4.6
 <tr><td>Процессор:<td>С поддержкой SSE4.1</table>
 <h2>Установка</h2>
-<b>x86:</b>  Скопировать файл <a href=>GPUNestx86.cpg</a> в каталог "Draw\Plugins", если такого каталога нет - его необходимо создать<p>
-<b>x64:</b>  Скопировать файл <a href=>GPUNestx64.cpg</a> в каталог "Programs64\Addons"
+<b>x86:</b>  Скопировать файл <a href=https://github.com/fersatgit/GPUNest/releases/download/v1.0/GPUNest_x86.cpg>GPUNest_x86.cpg</a> в каталог "Draw\Plugins", если такого каталога нет - его необходимо создать<p>
+<b>x64:</b>  Скопировать файл <a href=https://github.com/fersatgit/GPUNest/releases/download/v1.0/GPUNest_x64.cpg>GPUNest_x64.cpg</a> в каталог "Programs64\Addons"
 <h2>Работа с аддоном</h2><ol>
 <li>Выделить объекты для компоновки. Аддон позволяет работать с кривыми, эллипсами, прямоугольниками и растрами, остальные объекты обрабатываются как прямоугольники. Группа объектов считается одним неразрывным объектом.
 <li>Запустить аддон при помощи иконки <img src=icon.ico> на панели "Стандарт"
